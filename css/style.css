@@ -76,21 +76,25 @@ header a:hover{
 /* Showcase */
 #showcase{
   /*min-height:60%;*/
+  max-height: 400px;
   background:url('../image/simpo.jpg') no-repeat;
   text-align: center;
   background-size: 100% auto;
-  color: #51251B;
+  color: #ffffff;
   margin: 0;
 }
 #showcase h1{
   margin-top: 100px;
   font-size: 55px;
   margin-bottom: 10px;
+  color: #000000;
 }
 #showcase p{
   font-size: 20px;
+  color: #000000;
 }
 #newsletter{
+  justify-content: center;
   padding: 15px;
   color: #ffffff;
   background: #35424a;
